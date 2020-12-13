@@ -1,0 +1,27 @@
+{
+  "name": "panks-mailer",
+  "version": "1.0.0",
+  "description": "Shoot emails conveniently with custom contents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/this-is-pankaj/npmPackages-panksMailer.git"
+  },
+  "keywords": [
+    "email",
+    "otp",
+    "send email"
+  ],
+  "author": "Pankaj Gupta <pankajguptanitdgp4@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/this-is-pankaj/npmPackages-panksMailer/issues"
+  },
+  "homepage": "https://github.com/this-is-pankaj/npmPackages-panksMailer#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.17"
+  }
+}
